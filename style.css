@@ -1,0 +1,29 @@
+.first{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border: 10px solid goldenrod;
+    text-align: center;
+    text-align: justify;
+    padding: 0 20px;
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+
+.second{
+    height: 200px;
+    width: 600px;
+    margin: 20px auto;
+    border: 10px dotted rebeccapurple;
+    text-align: center;
+    text-align: justify;
+    padding: 0 20px;
+    background-color: #dbfa86;
+    border-radius: 5%;
+}
+
+.second  ul li{
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+}
